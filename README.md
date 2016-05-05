@@ -3,6 +3,11 @@ RiWABuild is an IDE for php based Rich Web-based Application development<br>
 When you build the application from the source, make sure to have tidy.dll in the application folder.
 
 #Features
+Split view<br>
+Live preview<br>
+
+
+#Usage tips
 IDE-----------------------------------------------<br>
 Create project to make directory fructure for RiWAs<br>
 Set server path for live preview of php files<br>
