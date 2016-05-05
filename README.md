@@ -6,6 +6,7 @@ When you build the application from the source, make sure to have tidy.dll in th
 Split view<br>
 Live preview<br>
 
+![](http://solutions.fusioncrewonline.com/SharedImages/RiWABuild.png)
 
 #Usage tips
 IDE-----------------------------------------------<br>
